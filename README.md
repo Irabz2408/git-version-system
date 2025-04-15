@@ -16,6 +16,9 @@
 ![](./Images/2.%20repo%20clone.png)
 
 
+* ## Here is the git dashbord 
+![](./Images/9.git%20hub%20dashboard.png)
+
 
 * also they both create a new branch for their main project where tom branch will be named "update-navigation" while jerry will be named add-contact-info
 
@@ -46,3 +49,4 @@
 
 * tom decides to mergres his first. he creates a "pull request" his branch "update - navigation" . PR is a way to tell the team that he's done and the code is ready to review
 
+![](./Images/Screen%20Shot%202025-04-15%20at%201.12.36%20AM.png)
